@@ -219,7 +219,7 @@ medspa-customer-segmentation-kpmg/
 
 ## Author
 
-**Pratyush Pradhan** . [GitHub](https://github.com/pratyushpradhan1801) . [LinkedIn](https://www.linkedin.com/in/pratyush-pradhan1/)
+**Pratyush Pradhan** . [GitHub](https://github.com/PratyushPradhan1) . [LinkedIn](https://www.linkedin.com/in/pratyushpradhan1)
 
 *Built as a learning project. All data simulated.*
 ```
